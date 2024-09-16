@@ -1,6 +1,7 @@
-Tipos de información
+Clasificación de la Información
 
-La información puede clasificarse de muchas maneras, según diversos criterios. Uno de los más comunes se basa en la relación entre los emisores de la información y sus posibles receptores. De esta manera, podemos distinguir entre:
+La información puede clasificarse de diversas maneras según diferentes criterios. Uno de los criterios más comunes es el nivel de acceso y privacidad. Según este criterio, podemos distinguir entre:
 
-Información confidencial o clasificada: Es aquella a la que solo puede acceder un pequeño grupo de personas debido a su naturaleza secreta o peligrosa.
-Información pública: Es aquella que permite el acceso general de cualquier persona a su contenido, sin requerir permisos especiales y sin tener ningún grado de privacidad.
+Información Privada: Es aquella que está restringida a un grupo específico de personas. Ejemplos incluyen datos personales, información médica y documentos confidenciales de una empresa.
+Información Pública: Es aquella que está disponible para cualquier persona sin restricciones. Ejemplos incluyen noticias, publicaciones en redes sociales y documentos gubernamentales accesibles al público.
+Información Sensible: Es aquella que, aunque no es necesariamente confidencial, puede causar daño o inconvenientes si se divulga inapropiadamente. Ejemplos incluyen información financiera y datos de contacto.
