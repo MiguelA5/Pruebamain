@@ -3,5 +3,4 @@ Clasificación de la Información
 La información puede clasificarse de diversas maneras según diferentes criterios. Uno de los criterios más comunes es el nivel de acceso y privacidad. Según este criterio, podemos distinguir entre:
 
 Información Privada: Es aquella que está restringida a un grupo específico de personas. Ejemplos incluyen datos personales, información médica y documentos confidenciales de una empresa.
-Información Pública: Es aquella que está disponible para cualquier persona sin restricciones. Ejemplos incluyen noticias, publicaciones en redes sociales y documentos gubernamentales accesibles al público.
-Información Sensible: Es aquella que, aunque no es necesariamente confidencial, puede causar daño o inconvenientes si se divulga inapropiadamente. Ejemplos incluyen información financiera y datos de contacto.
+Información Pública: Es aquella que está disponible para cualquier persona sin restricciones.
