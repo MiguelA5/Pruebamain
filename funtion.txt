@@ -1,4 +1,6 @@
 Tipos de información
-La información puede clasificarse de maneras muy distintas, conforme a numerosos criterios. Uno de los más comunes tiene que ver con la relación establecida entre los emisores de la información y sus eventuales o posibles receptores, de la siguiente manera:
 
-Información confidencial o clasificada. Aquella a la que sólo puede acceder un pequeño conjunto de personas, dada la naturaleza secreta, peligrosa, Aquella que, por el contrario, permite el acceso general de cualquiera a su contenido, sin requerir permisos especiales y sin tener ningún grado de privacidad.
+La información puede clasificarse de muchas maneras, según diversos criterios. Uno de los más comunes se basa en la relación entre los emisores de la información y sus posibles receptores. De esta manera, podemos distinguir entre:
+
+Información confidencial o clasificada: Es aquella a la que solo puede acceder un pequeño grupo de personas debido a su naturaleza secreta o peligrosa.
+Información pública: Es aquella que permite el acceso general de cualquier persona a su contenido, sin requerir permisos especiales y sin tener ningún grado de privacidad.
